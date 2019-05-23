@@ -4,3 +4,5 @@
 - JDK：https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 - Gradle：http://services.gradle.org/distributions/
 - Sqlite Expert：http://www.sqliteexpert.com/download.html
+- Tomcat:http://tomcat.apache.org/
+- eclipse:https://www.eclipse.org/downloads/
